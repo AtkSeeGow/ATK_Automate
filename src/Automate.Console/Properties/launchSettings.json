@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Automate.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "ConvertEncodingToBeatX"
+    }
+  }
+}
